@@ -3,4 +3,5 @@ My solution to leetcode.com problems.
 
 My file name is after problem number.
 You can find the problem [here](https://leetcode.com/problemset/all/).
-The code is just a function without class.
+
+If there is only one function in the class, class is omited.
