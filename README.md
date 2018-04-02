@@ -10,4 +10,4 @@ My solution to leetcode.com problems.
 
 + Comment is also omitted.
 
-+ Target languages are `Java`, `Python 3`, `C` and `C++`.
++ Target languages are `Java`(.java), `Python 3`(.py), `C`(.c) and `C++`(.cpp).
