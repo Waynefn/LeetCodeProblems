@@ -1,4 +1,4 @@
-def lengthOfLongestSubstring(self, s):
+def lengthOfLongestSubstring(s):
     res=""
     maxx=0
     i=0
